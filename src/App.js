@@ -5,7 +5,7 @@ import Index from './pages/Index'
 function App() {
   return (
     <div className="App">
-      <Index/>22
+      <Index/>
     </div>
   );
 }
